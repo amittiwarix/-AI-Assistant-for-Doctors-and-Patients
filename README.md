@@ -1,1 +1,1 @@
-In this project we will build a Medical AI Assistant using New Google Gemini AI Model , Steamlit and Python. The image recognization capabilities of this model is amazing and how it can tell what condition is showing in the image from a medical point of view. 
+In this project i've built a Medical AI Assistant using New Google Gemini AI Model , Steamlit and Python. The image recognization capabilities of this model is amazing and how it can tell what condition is showing in the image from a medical point of view. 
